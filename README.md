@@ -12,6 +12,8 @@ Before rolling out a full app redesign, the product team ran a controlled experi
 
 The goal: determine whether the redesign changes checkout conversion, and whether it's worth shipping.
 
+<img width="1017" height="812" alt="dc364890-5e6d-4f40-be72-d88dee6e5e0a" src="https://github.com/user-attachments/assets/e6247a76-bf81-43c7-95e8-25b988060d58" />
+
 ## What this project covers
 
 - **Data cleaning:** deduplication, column standardization, timestamp parsing, and time-window filtering to isolate the reliable observation period.
